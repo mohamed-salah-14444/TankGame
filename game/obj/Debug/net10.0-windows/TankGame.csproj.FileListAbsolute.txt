@@ -1,0 +1,15 @@
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\TankGame.exe
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\TankGame.deps.json
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\TankGame.runtimeconfig.json
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\TankGame.dll
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\TankGame.pdb
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.AssemblyInfoInputs.cache
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.AssemblyInfo.cs
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.csproj.CoreCompileInputs.cache
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.dll
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\refint\TankGame.dll
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.pdb
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\TankGame.genruntimeconfig.cache
+C:\uni\year2\software\tank game\game\obj\Debug\net10.0-windows\ref\TankGame.dll
+C:\uni\year2\software\tank game\game\bin\Debug\net10.0-windows\images\background.jpg
